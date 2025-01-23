@@ -3,7 +3,7 @@ CAD components for HND Costume for Stage and Screen year 2 womenswear project
 
 ## Concept
 We are creating costumes for a production of "Showboat" by Jerome Kern and Oscar Hammerstein II, after the novel by Edna Kern.
-The design presented here is "Miss France", by Alexander Reid.
+The design presented here is "Miss France", by Alexander Reid.<br/>
 ![alt text](https://github.com/scifibres/Showboat/blob/main/design.jpg "Miss France")
 
 ## Components
