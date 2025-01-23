@@ -4,7 +4,7 @@ CAD components for HND Costume for Stage and Screen year 2 womenswear project
 ## Concept
 We are creating costumes for a production of "Showboat" by Jerome Kern and Oscar Hammerstein II, after the novel by Edna Kern.
 The design presented here is "Miss France", by Alexander Reid.
-[photo]
+![alt text](https://github.com/scifibres/Showboat/blob/main/design.jpg "Miss France")
 
 ## Components
 - Fleur de lis sew-on ornaments:
@@ -13,7 +13,6 @@ The design presented here is "Miss France", by Alexander Reid.
 - Centre front panel of fleur de lis motifs on net
 
 ## How to print
-
 ### Hardware
 - **Printer**: Prusa Original MK4
 - **Filament**: Silk PLA, 1.75mm (gold)
